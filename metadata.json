@@ -1,0 +1,6 @@
+{
+  "name": "eFootball Pocket Manager",
+  "description": "Gérez votre Dream Team de football, ouvrez des packs de joueurs épiques, ajustez votre tactique sur un terrain interactif et simulez des matchs passionnants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
